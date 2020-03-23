@@ -1,1 +1,1 @@
-change of user name and user email in git repository
+change of user name and user email in git.
